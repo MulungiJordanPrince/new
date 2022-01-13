@@ -14,7 +14,7 @@ const Highlights = () => {
           {
             title: 'NFTs with Utility',
             subtitle:
-              'Auto-yield generating NFTs, and an NFT Leveling Systen are just a couple of the planned NFT Features in the roadmap.',
+              'Auto-yield generating NFTs, and an NFT Leveling System are just a couple of the planned NFT Features in the roadmap.',
             icon: (
               <svg
                 height={24}
