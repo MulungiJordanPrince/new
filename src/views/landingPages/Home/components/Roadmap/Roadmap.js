@@ -44,6 +44,11 @@ const Roadmap = () => {
             title: 'Laika v2 Farms',
         },
         {
+            date: 'In Progress',
+            color: '#ffbf00',
+            title: 'Laika NFTs',
+        },
+        {
             date: 'TBA',
             title: 'Academy',
         },
@@ -53,7 +58,6 @@ const Roadmap = () => {
         },
         {
             date: 'TBA',
-            color: '#ffbf00',
             title: 'Forge',
         },
         {

@@ -64,10 +64,6 @@ export const pages = [
         href: 'https://charts.bogged.finance/?token=0xc3a304aDCc921c6e4c7E5d796751A3C8fB8E4337',
       },
       {
-        title: 'SnowgeSwap (V1)',
-        href: 'https://snowgecoin.com/swap/#/swap?outputCurrency=0xc3a304aDCc921c6e4c7E5d796751A3C8fB8E4337',
-      },
-      {
         title: 'BSCScan (Explorer)',
         href: 'https://bscscan.com/token/0xc3a304aDCc921c6e4c7E5d796751A3C8fB8E4337',
       },

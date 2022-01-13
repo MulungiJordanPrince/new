@@ -12,7 +12,7 @@ const Highlights = () => {
       <Grid container spacing={2}>
         {[
           {
-            title: 'Scalable Automatic Liquidity Pools',
+            title: 'ADD SOMETHING NEW HERE?',
             subtitle:
               'With our custom-built scalable auto-LP injection, you can just sit back and hang out with Laika. Let her steer the rocket for you..',
             icon: (
