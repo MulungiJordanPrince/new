@@ -12,9 +12,9 @@ const Highlights = () => {
       <Grid container spacing={2}>
         {[
           {
-            title: 'ADD SOMETHING NEW HERE?',
+            title: 'NFTs with Utility',
             subtitle:
-              'With our custom-built scalable auto-LP injection, you can just sit back and hang out with Laika. Let her steer the rocket for you..',
+              'Auto-yield generating NFTs, and an NFT Leveling Systen are just a couple of the planned NFT Features in the roadmap.',
             icon: (
               <svg
                 height={24}

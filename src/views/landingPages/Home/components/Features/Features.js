@@ -200,7 +200,7 @@ const Features = () => {
                         {
                             title: 'Innovation Driven.',
                             subtitle:
-                                'LaikaProtocol is the governance token for an entire Ecosystem. For Example, come see the community projets lined up in the Stargate, and the help Provided in the Academy.',
+                                'LaikaProtocol is the governance token for an entire Ecosystem. For example, come see the community projects lined up in the Stargate, and the help Provided in the Academy.',
                             icon: (
                                 <svg
                                     height={24}

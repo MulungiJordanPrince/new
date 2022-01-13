@@ -44,11 +44,14 @@ export const pages = [
       {
         title: 'Reddit',
         href: 'https://www.reddit.com/r/LaikaProtocol/',
-      },
+      }
+      /*
+      ,
       {
         title: 'Medium',
         href: 'https://laikatospace.medium.com/',
       },
+      */
     ],
   },
   {
