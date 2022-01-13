@@ -32,17 +32,17 @@ const SidebarNav = ({ pages, onClose }) => {
 
   const logos = {
     'bsc': bsc,
-    'eth': ethereum,
+    /*'eth': ethereum,*/
     'one': one,
     'matic': matic,
-    'huobi': huobi,
-    'okex': okex,
+    /*'huobi': huobi,*/
+    /*'okex': okex,*/
     'avax': avax,
-    'xdai': xdai,
+    /*'xdai': xdai,*/
     'fantom': ftm,
-    'kcc': kcc,
+    /*'kcc': kcc,*/
     'movr': movr,
-    "cex": coinsbit
+    /*"cex": coinsbit*/
   }
 
   return (

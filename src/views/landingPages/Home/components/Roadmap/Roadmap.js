@@ -16,103 +16,49 @@ const Roadmap = () => {
         {
             date: 'Completed',
             color: '#32cd80',
-            title: 'BSC Launch',
+            title: 'Laika v1 Launch on BSC',
         },
         {
             date: 'Completed',
             color: '#32cd80',
-            title: 'Harmony Integration',
+            title: 'Laika v1 Opens Bridges to Multiple Blockchains',
         },
         {
             date: 'Completed',
             color: '#32cd80',
-            title: 'Matic Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'First Major Exchange Listing',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'Ethereum Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'Huobi Eco Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'OKEx Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'Avalanche Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'xDai Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'Fantom Integration',
-        },
-        {
-            date: 'Completed',
-            color: '#32cd80',
-            title: 'KCC Integration',
+            title: 'Laika v1 Opens Astro Farms',
         },
         {
             date: 'In Progress',
             color: '#ffbf00',
-            title: 'Astro Farms',
+            title: 'Laika v2 Migration',
         },
         {
             date: 'In Progress',
             color: '#ffbf00',
-            title: 'Second Major Exchange Listing',
+            title: 'Laika v2 Website UI Redesign',
         },
         {
             date: 'In Progress',
             color: '#ffbf00',
-            title: 'Additional Cross-chain Integration',
+            title: 'Laika v2 Farms',
         },
         {
-            date: 'In Progress',
-            color: '#ffbf00',
+            date: 'TBA',
             title: 'Academy',
         },
         {
-            date: 'In Progress',
-            color: '#ffbf00',
+            date: 'TBA',
             title: 'Stargate',
         },
         {
-            date: 'In Progress',
+            date: 'TBA',
             color: '#ffbf00',
             title: 'Forge',
         },
         {
             date: 'TBA',
             title: 'Mobile App',
-        },
-        {
-            date: 'TBA',
-            title: 'Contract Optimization',
-        },
-        {
-            date: 'TBA',
-            title: 'Security Audit',
-        },
-        {
-            date: 'TBA',
-            title: 'Third Major Exchange Listing',
         },
         {
             date: 'TBA',
@@ -123,6 +69,7 @@ const Roadmap = () => {
             title: 'Laika Oracle',
         },
     ];
+    
 
     const TimeLineMobileView = ({timeline = []}) => (
         <Grid container spacing={2}>

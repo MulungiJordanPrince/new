@@ -7,6 +7,7 @@ import Card from '@material-ui/core/Card';
 import Avatar from '@material-ui/core/Avatar';
 import Typography from '@material-ui/core/Typography';
 import spaceDog from 'images/spacedog.png';
+import cityscape from 'images/cityscape.jpg';
 
 const Features = () => {
     const theme = useTheme();
@@ -24,6 +25,15 @@ const Features = () => {
                 >
                     About
                 </Typography>
+                <Box
+                display={'flex'}
+                justifyContent={'center'}
+                alignItems={'center'}
+                marginBottom={4}
+                width={'100%'}
+                ><img width={'100%'} height={'100%'} src={cityscape}/>
+                </Box>
+                <br/><br/>
                 <Box
                     component={Typography}
                     fontWeight={700}

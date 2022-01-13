@@ -44,6 +44,7 @@ const Footer = () => (
               Home
             </Link>
           </Box>
+          {/*
           <Box marginTop={1} marginRight={2}>
             <Link
               underline="none"
@@ -55,6 +56,7 @@ const Footer = () => (
               WhitePaper
             </Link>
           </Box>
+          */}
           <Box marginTop={1} marginRight={2}>
             <Tooltip title="Coming Soon!">
               <Link
@@ -95,15 +97,15 @@ const Footer = () => (
             </Tooltip>
           </Box>
           <Box marginTop={1} marginRight={2}>
-            <Tooltip title="Live Now!">
+            <Tooltip title="Coming Soon!">
               <Link
                 underline="none"
                 component="a"
-                href="http://astroprotocol.com"
+                href="/"
                 color="textPrimary"
                 variant={'subtitle2'}
               >
-              Astro Farms<sup style={{color:"#20fbff"}}>LIVE</sup>
+              Laika Farms<sup style={{color:"#20fbff"}}>TBA</sup>
               </Link>
             </Tooltip>
           </Box>

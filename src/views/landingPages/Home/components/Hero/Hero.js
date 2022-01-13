@@ -73,6 +73,7 @@ const Hero = () => {
                           <img src={ftm} className="hover-animation-chain ftm"/>
                           <img src={movr} className="hover-animation-chain movr"/>
                         </Box>
+                        {/*
                         <Box>
                           <img src={ethereum} className="hover-animation-chain eth"/>
                           <img src={huobi} className="hover-animation-chain huobi"/>
@@ -80,22 +81,25 @@ const Hero = () => {
                           <img src={xdai} className="hover-animation-chain xdai"/>
                           <img src={kcc} className="hover-animation-chain kcc"/>
                         </Box>
+                        */}
                       </React.Fragment>}
                       {!isMd && <Box>
                         <img src={bsc} className="hover-animation-chain bsc"/>
                         <img src={one} className="hover-animation-chain one"/>
                         <img src={matic} className="hover-animation-chain matic"/>
+                        <img src={avax} className="hover-animation-chain avax"/>
+                        <img src={ftm} className="hover-animation-chain ftm"/>
+                        <img src={movr} className="hover-animation-chain movr"/>
+                        {/*
                         <img src={ethereum} className="hover-animation-chain eth"/>
                         <img src={huobi} className="hover-animation-chain huobi"/>
                         <img src={okex} className="hover-animation-chain okex"/>
-                        <img src={avax} className="hover-animation-chain avax"/>
                         <img src={xdai} className="hover-animation-chain xdai"/>
-                        <img src={ftm} className="hover-animation-chain ftm"/>
                         <img src={kcc} className="hover-animation-chain kcc"/>
-                        <img src={movr} className="hover-animation-chain movr"/>
+                        */}
                       </Box>}
                         <Typography
-                            variant="h2"
+                            variant="h3"
                             color="textPrimary"
                             sx={{
                                 fontWeight: 700,
@@ -110,7 +114,7 @@ const Hero = () => {
                                 variant={'inherit'}
                             >
                                 <Typed
-                                    strings={['2nd Generation.', 'No Buy/Sell Fees.', 'Cross-Chain Liquidity.']}
+                                    strings={['DAO Governance.', 'No Buy/Sell Fees.', 'Cross-Chain Liquidity.']}
                                     typeSpeed={80}
                                     loop={true}
                                 />

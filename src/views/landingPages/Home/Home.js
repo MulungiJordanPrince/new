@@ -64,6 +64,7 @@ const Home = () => {
             <Box position={'relative'} className={'space-dog-banner'}>
                 <Box height={'100%'} width={'100%'} maxWidth={400} m={6}>
                     <img src={multidog} height={'60%'} width={'100%'}/>
+                    {/*
                     <div id="logo-spin-container">
                       <div class="logo-spin-item" style={{"--d":"0s", "--label":"BINANCE SMART CHAIN"}}><img src={bsc} className="hover-animation-chain"/></div>
                       <div class="logo-spin-item" style={{"--d":"-3s", "--label":"HARMONY ONE"}}><img src={one} className="hover-animation-chain"/></div>
@@ -77,6 +78,15 @@ const Home = () => {
                       <div class="logo-spin-item" style={{"--d":"-27s", "--label":"KCC"}}><img src={kcc} className="hover-animation-chain"/></div>
                       <div class="logo-spin-item" style={{"--d":"-30s", "--label":"MOVR"}}><img src={movr} className="hover-animation-chain"/></div>
                     </div>
+                    */}
+                    <div id="logo-spin-container">
+                      <div class="logo-spin-item" style={{"--d":"0s", "--label":"BINANCE SMART CHAIN"}}><img src={bsc} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-6s", "--label":"HARMONY ONE"}}><img src={one} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-12s", "--label":"POLYGON"}}><img src={matic} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-18s", "--label":"AVALANCHE"}}><img src={avax} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-24s", "--label":"FANTOM"}}><img src={ftm} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-30s", "--label":"MOVR"}}><img src={movr} className="hover-animation-chain"/></div>
+                    </div>                    
                 </Box>
             </Box>
             <Box position={'relative'} className={'rocket-animation'}>

@@ -72,7 +72,8 @@ export const pages = [
         href: 'https://bscscan.com/token/0xc3a304aDCc921c6e4c7E5d796751A3C8fB8E4337',
       },
     ],
-  }/*,
+  }
+  /*,
   {
     title: 'MATIC (POLYGON)',
     id: 'matic',
