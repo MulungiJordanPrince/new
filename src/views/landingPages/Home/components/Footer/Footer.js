@@ -104,6 +104,7 @@ const Footer = () => {
               <img src={bsc} width="20vw" style={{marginRight: "5px", verticalAlign: "middle"}}/>PancakeSwap
             </Link>
           </MenuItem>
+          {/*
           <MenuItem onClick={handleClose}>
             <Link underline="none" component="a" color="white" href={links.v1BuyLink} target="_blank">
               <img src={bsc} width="20vw" style={{marginRight: "5px", verticalAlign: "middle"}}/>SnowgeSwap
@@ -164,6 +165,7 @@ const Footer = () => {
               <img src={coinsbit} width="20vw" style={{marginRight: "5px", verticalAlign: "middle"}}/>CoinsBit
             </Link>
           </MenuItem>
+          */}
         </Menu>
       </Box>
     </Box>

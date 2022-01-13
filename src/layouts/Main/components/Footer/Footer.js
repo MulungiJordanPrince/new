@@ -111,12 +111,12 @@ const Footer = () => (
           </Box>
           <Box marginTop={1}>
             <Button
-              variant="outlined"
+              variant="contained"
               color="primary"
+              fullWidth
               component="a"
-              target="blank"
+              target="_blank"
               href={links.buyLink}
-              size="small"
             >
               Purchase now
             </Button>
