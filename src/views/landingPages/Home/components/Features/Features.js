@@ -134,7 +134,7 @@ const Features = () => {
                         },
                         {
                             title: 'Equal Cross-Chain Liquidity.',
-                            subtitle: 'Automatic Cross-Chain Arbitration Equalizes Liquidity and Price on each chain.',
+                            subtitle: 'Cross-Chain Arbitration Equalizes Liquidity and Price on each chain.',
                             icon: (
                                 <svg
                                     height={24}

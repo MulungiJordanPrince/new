@@ -99,7 +99,7 @@ const Hero = () => {
                         */}
                       </Box>}
                         <Typography
-                            variant="h3"
+                            variant="h4"
                             color="textPrimary"
                             sx={{
                                 fontWeight: 700,
