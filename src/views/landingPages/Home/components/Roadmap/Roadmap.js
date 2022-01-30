@@ -36,8 +36,18 @@ const Roadmap = () => {
         {
             date: 'In Progress',
             color: '#ffbf00',
+            title: 'Laika v2 Bridges Re-opening',
+        },
+        {
+            date: 'In Progress',
+            color: '#ffbf00',
             title: 'Laika v2 Website UI Redesign',
         },
+        {
+            date: 'In Progress',
+            color: '#ffbf00',
+            title: 'Laika v2 DAO Integration',
+        },        
         {
             date: 'In Progress',
             color: '#ffbf00',

@@ -131,7 +131,7 @@ const Footer = () => (
         color="textSecondary"
         gutterBottom
       >
-        &copy; Laika Protocol 2021. All rights reserved.
+        &copy; Laika Protocol 2022. All rights reserved.
       </Typography>
       <Typography
         align={'center'}
