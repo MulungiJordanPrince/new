@@ -81,11 +81,11 @@ const Home = () => {
                     */}
                     <div id="logo-spin-container">
                       <div class="logo-spin-item" style={{"--d":"0s", "--label":"BINANCE SMART CHAIN"}}><img src={bsc} className="hover-animation-chain"/></div>
-                      <div class="logo-spin-item" style={{"--d":"-6s", "--label":"HARMONY ONE"}}><img src={one} className="hover-animation-chain"/></div>
-                      <div class="logo-spin-item" style={{"--d":"-12s", "--label":"POLYGON"}}><img src={matic} className="hover-animation-chain"/></div>
-                      <div class="logo-spin-item" style={{"--d":"-18s", "--label":"AVALANCHE"}}><img src={avax} className="hover-animation-chain"/></div>
-                      <div class="logo-spin-item" style={{"--d":"-24s", "--label":"FANTOM"}}><img src={ftm} className="hover-animation-chain"/></div>
-                      <div class="logo-spin-item" style={{"--d":"-30s", "--label":"MOVR"}}><img src={movr} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-4s", "--label":"HARMONY ONE"}}><img src={one} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-8s", "--label":"POLYGON"}}><img src={matic} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-12s", "--label":"AVALANCHE"}}><img src={avax} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-16s", "--label":"FANTOM"}}><img src={ftm} className="hover-animation-chain"/></div>
+                      <div class="logo-spin-item" style={{"--d":"-20s", "--label":"MOVR"}}><img src={movr} className="hover-animation-chain"/></div>
                     </div>                    
                 </Box>
             </Box>
